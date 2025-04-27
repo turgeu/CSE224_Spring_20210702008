@@ -1,0 +1,6 @@
+<< properties >>
+string FIXED_BBOX 0 0 6900 11424
+string GDS_END 100664
+string GDS_FILE /openlane/designs/inverter/runs/RUN_2025.04.27_15.18.42/results/signoff/inverter.magic.gds
+string GDS_START 41664
+<< end >>

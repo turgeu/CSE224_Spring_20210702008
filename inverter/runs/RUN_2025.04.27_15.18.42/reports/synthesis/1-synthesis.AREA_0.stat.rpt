@@ -1,0 +1,17 @@
+
+63. Printing statistics.
+
+=== inverter ===
+
+   Number of wires:                  2
+   Number of wire bits:             16
+   Number of public wires:           2
+   Number of public wire bits:      16
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  8
+     sky130_fd_sc_hd__inv_2          8
+
+   Chip area for module '\inverter': 30.028800
+
