@@ -1,0 +1,6 @@
+<< properties >>
+string FIXED_BBOX 0 0 20000 28000
+string GDS_END 1456298
+string GDS_FILE /openlane/designs/alu/runs/RUN_2025.04.27_16.04.45/results/signoff/alu.magic.gds
+string GDS_START 511710
+<< end >>
